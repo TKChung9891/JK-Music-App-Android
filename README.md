@@ -6,6 +6,10 @@ On the backdrop of the huge popularity of K-POP and J-POP, music lovers would na
 
 최근 J-POP 및 K-POP의 압도적인 인기의 배경에 자연스럽게 팬들이 일본어 및 한국어 노래에 관한 정보, 예를 들어 가사의 의미, 가수의 내력 등의 흥미를 가지게 되었습니다.그러나 외국인에게는 일본어 및 한국어도 어려운 언어이며, 그런 정보는 좀처럼 입수하기 어렵습니다.JK 음악 앱은(이른바 Japanese-Korean) 이 요구에 응합니다.하나의 앱 안, 노래의 재생, 가사 및 관련 자세한 정보는 모두 편리하게 구비되어 있습니다.앱은 개념 실증 단계이기 때문에 3개의 노래만 들어있어요.
 
+Watch the JK Music App Demo Video: https://youtu.be/kMpgamaHXII
+
+Get the JK Music App on Google Play Store: https://play.google.com/store/apps/details?id=com.sg.edu.tp.tkmusicplayer
+
 ![image](https://user-images.githubusercontent.com/88481617/145959242-66a14167-b8a6-4207-a92e-52e5756465f5.png)
 ![image](https://user-images.githubusercontent.com/88481617/145959383-8d6c08de-f46a-4416-8ee9-fe1cd732b502.png)
 ![image](https://user-images.githubusercontent.com/88481617/145959428-4f4b4181-0a03-40f3-8baf-9495abd5e0c5.png)
